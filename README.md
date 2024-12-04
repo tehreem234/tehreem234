@@ -1,5 +1,4 @@
-![logo]
-(https://github.com/tehreem234/tehreem234/blob/main/Untitled%20design.png)
+![logo](https://github.com/tehreem234/tehreem234/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm ifrahtehreem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
